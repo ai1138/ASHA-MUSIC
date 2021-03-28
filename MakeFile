@@ -12,7 +12,8 @@ UTILS_DIR = utils
 build: | clean
 	cd $(UTILS_DIR); \
 	node "build.js";
-
+dev_env: 
+	`echo "Installing developer requirements."`
 clean:
 	rm -rf $(DIST_DIR)
 
