@@ -11,7 +11,7 @@ The Music Directory is a streaming service that allows users to have a personali
 
 ## Setup:
 
-To configure your system for development, first install Python 3 and git and then run make dev_env.
+To configure your system for development, first install git and then run make dev_env.
 
 ## Requirements 
 Users should be able to:
