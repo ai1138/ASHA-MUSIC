@@ -29,7 +29,7 @@ API should be able to:
 3. Delete Artist pages
 4. Create Curated Playlists
 5. Connect users with artists through communications api
-6. Connect artists with artists through communications api
+
 
 
 
