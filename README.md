@@ -21,14 +21,23 @@ Users should be able to:
 3. Search through Artist Catalogs
 4. Play App made playlists
 5. Connect with other artists
+6. Add upvote and comment feature
+7. follow other users and artists 
+
 
 API should be able to:
 
 1. List Artists
-2. Add Artists
+2. Add Artists 
 3. Delete Artist pages
-4. Create Curated Playlists
-5. Connect users with artists through communications api
+4. Add songs
+5. Search for songs,artists,profiles, albums, playlists
+6. Create Algorithm based Curated Playlists - this is our bread and butter
+7. Connect users with artists by allowing them to talk 
+8. generating a song feed for users 
+9. generating shareable links for social media platforms such as Instagram, Twitter, Facebook
+
+
 
 
 
