@@ -12,26 +12,19 @@ FILES = input output
 # The @ makes sure that the command itself isn't echoed in the terminal
 help:
 	@echo "---------------HELP-----------------"
-	@echo "To setup the project type make setup"
 	@echo "To test the project type make test"
 	@echo "To run the project type make run"
 	@echo "------------------------------------"
 
 
-setup:
-	
-	@echo "Checking if project files are generated..."
-	[ -d project_files.project ] || (echo "No directory found, generating..." && mkdir project_files.project)
-	for FILE in ${FILES}; do \
-		touch "project_files.project/$${FILE}.txt"; \
-	done
+
 test:
 	${PYTHON} -m pytest
 dev_env: 
 	pip install "requirements.txt"
 	
 run:
-	${PYTHON} our_app.py
+	${PYTHON} app.py
 
 
 clean:
