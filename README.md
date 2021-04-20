@@ -20,6 +20,8 @@ Action Requirements:
 3. Store information about the user (name, phone, email address)
 4. Accommodate video calling to connect users
 5. Create sessions for users to be able to meet each other
+
+
 User Requirements:
 
 1. Create new profiles 
