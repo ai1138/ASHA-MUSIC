@@ -1,4 +1,4 @@
-# SWE-Project
+# MUSIC DIRECTORY
 
 ## Team Members:
 * Hellen Epko (Back End Developer)
