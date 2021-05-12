@@ -1,7 +1,7 @@
 # MUSIC DIRECTORY
 
 ## Team Members:
-* Hellen Epko (Back End Developer)
+* Hellen Ekpo (Back End Developer)
 * Afnan Haq (Front End Developer) 
 * Abed Islam (Front End Developer)/(Developing Machine Learning Algorithm) 
 * Sheika Islam (Back End Developer)
