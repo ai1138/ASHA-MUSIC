@@ -18,8 +18,7 @@ Action Requirements:
 1. Play music on demand
 2. Contain music in several databases, which are playlists.
 3. Store information about the user (name, phone, email address)
-4. Accommodate video calling to connect users
-5. Create sessions for users to be able to meet each other
+4. Create sessions for users to be able to communicate with each other
 
 
 ### User Requirements:
